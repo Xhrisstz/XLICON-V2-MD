@@ -10,7 +10,7 @@ global.owner = [
   ['255688930205', 'CEO✅', true], 
   ['255716312895', 'Xhing', true],
   ['255716312895', 'Xhriss -(Mwanj)', true], 
-  ['94789481495', 'BOT ⚡', true],
+  ['255673611967', 'BOT ⚡', true],
   
 ] //Number of owners
 
