@@ -8,17 +8,17 @@ import axios from 'axios'
 
 global.owner = [
   ['255688930205', 'CEO✅', true], 
-  ['255716312895', 'Xhing', true],
+  ['255769503492', 'Xhing', true],
   ['255716312895', 'Xhriss -(Mwanj)', true], 
   ['255673611967', 'BOT ⚡', true],
   
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "255673611967" //put your bot number here
 
-global.mods = ['923184070915', '94789481495', '923184474176','233531910067','233208179431'] 
-global.prems = ['923184070915','233208179431','94789481495', '918360234087','233531910067']
-global.allowed = ['923184070915', '233208179431', '94789481495', '918360234087','233531910067']
+global.mods = ['255688930205', '255769503492', '255716312895', '255673611967'] 
+global.prems = ['255688930205','255769503492','255716312895', '255673611967']
+global.allowed = ['255688930205', '255769503492', '255716312895','255673611967']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
